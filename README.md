@@ -10,7 +10,7 @@ Developer, Student and full time nerd. <br>
 Welcome to my Github!  I'm Tom, an undergraduate student of Computer Science at the University of Southampton in the UK.  Outside of my education, I'm a passionate web developer and systems engineer/administrator.<br><br>
 
 ⚡ JavaScript & React, PHP, Java, Python<br>
-💬 Currently working on a commercial React site
+💬 Currently working on a React portfolio
 
 To contact me, visit my <a href="https://tommitchelmore.me">website</a> or send me an email at <a href="mailto:tommitchelmore@outlook.com?subject=👋 I saw you on Github!">tommitchelmore@outlook.com</a>
 
