@@ -17,27 +17,31 @@ To contact me, visit my <a href="https://tommitchelmore.me">website</a> or send 
 <hr>
 
 <p align="center">
+  <img src='https://github-readme-stats.vercel.app/api?username=tommitchelmore&show_icons=true'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=tommitchelmore&layout=compact'>
+</p>
+
+<hr>
+
+<p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" width="50">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" width="50">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" width="50">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" width="50">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg" width="50">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" width="50">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" width="50">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" width="50">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" width="50">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" width="50">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" width="50">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" width="50">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" width="50">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" width="50">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" width="50">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/babel/babel-original.svg" width="50">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" width="50">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" width="50">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="50">
-</p>
-
-<p align="center">
-  <img src='https://github-readme-stats.vercel.app/api?username=tommitchelmore&show_icons=true'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=tommitchelmore&layout=compact'>
 </p>
 
 <hr>
