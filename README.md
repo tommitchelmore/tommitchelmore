@@ -1,5 +1,6 @@
 
 <img src="https://i.imgur.com/DbbDBzG.png">
+<br>
 <p align='center'>
 Developer, Student and full time nerd. <br>
 <a href="https://github.com/tommitchelmore">Github</a>
