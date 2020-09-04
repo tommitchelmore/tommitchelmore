@@ -12,7 +12,7 @@ Welcome to my Github!  I'm Tom, an undergraduate student of Computer Science at 
 
 📋 Working as a systems administrator and web developer<br>
 ⚡ Proficient in fullstack development across a number of languages, frameworks and concepts<br>
-💬 Currently working on a React portfolio
+💬 Currently building my website in React with GatsbyJS and Netlify
 
 To contact me, visit my <a href="https://tommitchelmore.me">website</a> or send me an email at <a href="mailto:tommitchelmore@outlook.com?subject=👋 I saw you on Github!">tommitchelmore@outlook.com</a>
 
