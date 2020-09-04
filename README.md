@@ -17,7 +17,7 @@ To contact me, visit my <a href="https://tommitchelmore.me">website</a> or send 
 <hr>
 
 <p align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" width="30">
 </p>
 
 <p align="center">
