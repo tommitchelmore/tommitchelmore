@@ -7,9 +7,7 @@ Developer, Student and full time nerd. <br>
 <a href="https://www.linkedin.com/in/thomas-mitchelmore-3a3814175/">LinkedIn</a>
 <a href="https://stackoverflow.com/users/8671742/tom-mitchelmore">Stack Overflow</a>
 </p>
-
-<br><hr><br>
-
+<br>
 Welcome to my Github!  I'm Tom, an undergraduate student of Computer Science at the University of Southampton in the UK.  Outside of my education, I'm a passionate web developer and systems engineer/administrator.<br><br>
 
 ⚡ JavaScript & React, PHP, Java, Python<br>
