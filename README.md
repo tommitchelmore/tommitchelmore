@@ -18,8 +18,8 @@ To contact me, visit my <a href="https://tommitchelmore.me">website</a> or send 
 <br><hr><br>
 
 <p align="center">
-  <img src='https://github-readme-stats.vercel.app/api?username=tommitchelmore&show_icons=true&theme=buefy'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=tommitchelmore&layout=compact&theme=buefy'>
+  <img src='https://github-readme-stats.vercel.app/api?username=tommitchelmore&show_icons=true&theme=nightowl'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=tommitchelmore&layout=compact&theme=nightowl'>
 </p>
 
 <br><hr><br>
