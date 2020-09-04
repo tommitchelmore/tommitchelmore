@@ -21,7 +21,7 @@ To contact me, visit my <a href="https://tommitchelmore.me">website</a> or send 
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=tommitchelmore&layout=compact'>
 </p>
 
-<hr>
+<hr><hr>
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" width="50">
@@ -44,6 +44,6 @@ To contact me, visit my <a href="https://tommitchelmore.me">website</a> or send 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" width="50">
 </p>
 
-<hr>
+<hr><hr>
 
 All opinions are my own and do not represent those of organisations I am affiliated to.
