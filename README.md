@@ -1,4 +1,5 @@
 
+
 <img src="https://i.imgur.com/DbbDBzG.png">
 <br>
 <p align='center'>
@@ -14,8 +15,10 @@ Welcome to my Github!  I'm Tom, an undergraduate student of Computer Science at 
 ⚡ Proficient in fullstack development across a number of languages, frameworks and concepts<br>
 💬 Currently building my website in React with GatsbyJS and Netlify
 
-To contact me, visit my <a href="https://tommitchelmore.me">website</a> or send me an email at <a href="mailto:tommitchelmore@outlook.com?subject=👋 I saw you on Github!">tommitchelmore@outlook.com</a>
-
+To contact me, visit my <a href="https://tommitchelmore.me">website</a>  (WIP) or find me through:
+📬 Personal Email: <a href="mailto:tommitchelmore@outlook.com?subject=👋 I saw you on Github!">tommitchelmore@outlook.com</a>
+🎓 University Email: <a href="mailto:tm7g20@soton.ac.uk?subject=👋 I saw you on Github!">tm7g20@soton.ac.uk</a>
+💼 Work Email: <a href="mailto:tom@iceline-hosting.com?subject=👋 I saw you on Github!">tom@iceline-hosting.com</a>
 <br><hr><br>
 
 <p align="center">
