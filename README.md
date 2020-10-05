@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/DbbDBzG.png">
 <br>
 <p align='center'>
-Developer, Student and full time nerd. <br>
+Student Developer <br>
 <a href="https://github.com/tommitchelmore">Github</a>
 <a href="https://www.linkedin.com/in/thomas-mitchelmore-3a3814175/">LinkedIn</a>
 <a href="https://stackoverflow.com/users/8671742/tom-mitchelmore">Stack Overflow</a>
@@ -15,7 +15,7 @@ Welcome to my Github!  I'm Tom, an undergraduate student of Computer Science at 
 ⚡ Proficient in fullstack development across a number of languages, frameworks and concepts<br>
 💬 Currently building my website in React with GatsbyJS and Netlify
 
-To contact me, visit my <a href="https://tommitchelmore.me">website</a>  (WIP) or find me through:<br><br>
+To contact me, visit my <a href="https://tommitchelmore.com">website</a>  (WIP) or find me through:<br><br>
 📬 Personal Email: <a href="mailto:tommitchelmore@outlook.com?subject=👋 I saw you on Github!">tommitchelmore@outlook.com</a><br>
 🎓 University Email: <a href="mailto:tm7g20@soton.ac.uk?subject=👋 I saw you on Github!">tm7g20@soton.ac.uk</a><br>
 💼 Work Email: <a href="mailto:tom@iceline-hosting.com?subject=👋 I saw you on Github!">tom@iceline-hosting.com</a><br>
