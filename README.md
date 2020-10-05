@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/DbbDBzG.png">
 <br>
 <p align='center'>
-Student Developer <br>
+Developer, Systems Admin, Student <br>
 <a href="https://github.com/tommitchelmore" target="_blank">Github</a>
 <a href="https://www.linkedin.com/in/thomas-mitchelmore-3a3814175/" target="_blank">LinkedIn</a>
 <a href="https://stackoverflow.com/users/8671742/tom-mitchelmore" target="_blank">Stack Overflow</a>
