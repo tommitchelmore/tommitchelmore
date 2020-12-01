@@ -17,8 +17,8 @@ Welcome to my Github!  I'm Tom, an undergraduate student of Computer Science at 
 To contact me, visit my <a href="https://tommitchelmore.com" target="_blank">website</a>  (WIP) or find me through:<br><br>
 📬 Personal Email: <a href="mailto:tommitchelmore@outlook.com?subject=👋 I saw you on Github!">tommitchelmore@outlook.com</a><br>
 🎓 University Email: <a href="mailto:tm7g20@southampton.ac.uk?subject=👋 I saw you on Github!">tm7g20@soton.ac.uk</a><br>
-<br><hr><br>
+<br>
 
 <p align="left">
-  <img src='https://github-readme-stats.vercel.app/api?username=tommitchelmore&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff'>
+  <img src='https://github-readme-stats.vercel.app/api?username=tommitchelmore&bg_color=30,e96443,904e95&title_color=fff&text_color=fff'>
 </p>
