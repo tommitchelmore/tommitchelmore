@@ -25,6 +25,6 @@ To contact me, visit my <a href="https://tommitchelmore.com" target="_blank">web
   </a>
 
   <a href="https://github.com/tommitchelmore">
-    <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=tommitchelmore&layout=content&bg_color=101D2D&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&hide_border=true&langs_count=8'>
+    <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=tommitchelmore&layout=compact&bg_color=101D2D&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&hide_border=true&langs_count=8'>
   </a>
 </p>
