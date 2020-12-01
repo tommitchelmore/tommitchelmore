@@ -21,10 +21,10 @@ To contact me, visit my <a href="https://tommitchelmore.com" target="_blank">web
 
 <p align="center">
   <a href="https://github.com/tommitchelmore">
-    <img align="center" src='https://github-readme-stats.vercel.app/api?username=tommitchelmore&bg_color=101D2D&title_color=fff&text_color=fff&show_icons=true&icon_color=fff'>
+    <img align="center" src='https://github-readme-stats.vercel.app/api?username=tommitchelmore&bg_color=101D2D&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&hide_border=true&count_private=true'>
   </a>
 
   <a href="https://github.com/tommitchelmore">
-    <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=tommitchelmore&bg_color=101D2D&title_color=fff&text_color=fff&show_icons=true&icon_color=fff'>
+    <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=tommitchelmore&layout=content&bg_color=101D2D&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&hide_border=true&langs_count=8'>
   </a>
 </p>
