@@ -19,10 +19,12 @@ To contact me, visit my <a href="https://tommitchelmore.com" target="_blank">web
 🎓 University Email: <a href="mailto:tm7g20@southampton.ac.uk?subject=👋 I saw you on Github!">tm7g20@soton.ac.uk</a><br>
 <br>
 
-<a href="https://github.com/tommitchelmore">
-  <img align="center" src='https://github-readme-stats.vercel.app/api?username=tommitchelmore&bg_color=101D2D&title_color=fff&text_color=fff&show_icons=true&icon_color=fff'>
-</a>
+<p align="center">
+  <a href="https://github.com/tommitchelmore">
+    <img align="center" src='https://github-readme-stats.vercel.app/api?username=tommitchelmore&bg_color=101D2D&title_color=fff&text_color=fff&show_icons=true&icon_color=fff'>
+  </a>
 
-<a href="https://github.com/tommitchelmore">
-  <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=tommitchelmore&layout=compact&bg_color=101D2D&title_color=fff&text_color=fff&show_icons=true&icon_color=fff'>
-</a>
+  <a href="https://github.com/tommitchelmore">
+    <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=tommitchelmore&bg_color=101D2D&title_color=fff&text_color=fff&show_icons=true&icon_color=fff'>
+  </a>
+</p>
