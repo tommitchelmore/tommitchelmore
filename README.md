@@ -19,6 +19,6 @@ To contact me, visit my <a href="https://tommitchelmore.com" target="_blank">web
 🎓 University Email: <a href="mailto:tm7g20@southampton.ac.uk?subject=👋 I saw you on Github!">tm7g20@soton.ac.uk</a><br>
 <br><hr><br>
 
-<p align="center">
-  <img src='https://github-readme-stats.vercel.app/api?username=tommitchelmore&show_icons=true&theme=gradient'>
+<p align="left">
+  <img src='https://github-readme-stats.vercel.app/api?username=tommitchelmore&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff'>
 </p>
