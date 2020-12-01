@@ -20,5 +20,5 @@ To contact me, visit my <a href="https://tommitchelmore.com" target="_blank">web
 <br>
 
 <p align="left">
-  <img src='https://github-readme-stats.vercel.app/api?username=tommitchelmore&bg_color=30,e96443,904e95&title_color=fff&text_color=fff'>
+  <img src='https://github-readme-stats.vercel.app/api?username=tommitchelmore&bg_color=101D2D&title_color=fff&text_color=fff'>
 </p>
