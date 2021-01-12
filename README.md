@@ -31,19 +31,19 @@ To contact me, visit my <a href="https://tommitchelmore.com" target="_blank">web
 </p>
 
 <p align="center">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" width="40">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" width="40">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" width="40">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" width="40">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" width="40">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original-wordmark.svg" width="40">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/gitlab/gitlab-original-wordmark.svg" width="40">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" width="40">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original.svg" width="40">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg" width="40">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" width="40">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" width="40">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" width="40">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" width="40">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/babel/babel-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" width="40">
 </p>
