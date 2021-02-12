@@ -1,7 +1,7 @@
-## Welcome
+# Welcome
 Hi! 👋 I’m a passionate **full stack developer** from the UK, currently completing my Bachelors degree in **Computer Science** at the University of Southampton.
 
-## Languages & Frameworks I'm experienced in
+# Languages & Frameworks I'm experienced in
 <p float="left">
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
@@ -20,7 +20,7 @@ Hi! 👋 I’m a passionate **full stack developer** from the UK, currently comp
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
  </p>
 
-## Let's talk!
+# Let's talk!
 I'm currently looking for an **internship** in **software or web development** for Summer 2021 - if you're looking for such a candidate, I'd love to organize a virtual meeting.
  - Visit my website: <a href="https://tommitchelmore.com" target="_blank">tommitchelmore.com</a>
  - Drop me an email: <a href="mailto:tommitchelmore@outlook.com">tommitchelmore@outlook.com</a>
