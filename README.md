@@ -1,49 +1,26 @@
+## Welcome
+Hi! 👋 I’m a passionate **full stack developer** from the UK, currently completing my Bachelors degree in **Computer Science** at the University of Southampton.
 
+## Languages & Frameworks I'm experienced in
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+<img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
+<img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 
-
-<img src="https://i.imgur.com/DbbDBzG.png">
-<br>
-<p align='center'>
-🌟 Student, Developer, Nerd 🌟 <br>
-<a href="https://github.com/tommitchelmore" target="_blank">Github</a>
-<a href="https://www.linkedin.com/in/thomas-mitchelmore-3a3814175/" target="_blank">LinkedIn</a>
-<a href="https://stackoverflow.com/users/8671742/tom-mitchelmore" target="_blank">Stack Overflow</a>
-</p>
-<br>
-Welcome to my Github!  I'm Tom, an undergraduate student of Computer Science at the University of Southampton in the UK.  Outside of my education, I love all things web and systems development/administration!<br><br>
-
-📋 Actively learning Java through coursework and a number of personal projects. <br>
-💬 Currently working on my new [Website](https://github.com/tommitchelmore/personal-site)!
-
-To contact me, visit my <a href="https://tommitchelmore.com" target="_blank">website</a>  (WIP) or find me through:<br><br>
-📬 Personal Email: <a href="mailto:tommitchelmore@outlook.com?subject=👋 I saw you on Github!">tommitchelmore@outlook.com</a><br>
-🎓 University Email: <a href="mailto:tm7g20@southampton.ac.uk?subject=👋 I saw you on Github!">tm7g20@southampton.ac.uk</a><br>
-<br>
-
-<p align="center">
-  <a href="https://github.com/tommitchelmore">
-    <img align="center" src='https://github-readme-stats.vercel.app/api?username=tommitchelmore&bg_color=101D2D&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&hide_border=true&count_private=true&title=Github%20Stats'>
-  </a>
-
-  <a href="https://github.com/tommitchelmore">
-    <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=tommitchelmore&layout=compact&bg_color=101D2D&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&hide_border=true&langs_count=8'>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" width="40">
-</p>
+## Let's talk!
+I'm currently looking for an **internship** in **software or web development** for Summer 2021 - if you're looking for such a candidate, I'd love to organize a virtual meeting.
+ - Visit my website: <a href="https://tommitchelmore.com" target="_blank">tommitchelmore.com</a>
+ - Drop me an email: <a href="mailto:tommitchelmore@outlook.com">tommitchelmore@outlook.com</a>
+ - Connect with me on LinkedIn: <a href="https://linkedin.com/in/tommitchelmore" target="_blank">/in/tommitchelmore</a>
+ - For academic enquiries: <a href="mailto:tm7g20@soton.ac.uk">tm7g20@soton.ac.uk</a>
