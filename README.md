@@ -2,6 +2,7 @@
 Hi! 👋 I’m a passionate **full stack developer** from the UK, currently completing my Bachelors degree in **Computer Science** at the University of Southampton.
 
 ## Languages & Frameworks I'm experienced in
+<p float="left">
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -17,6 +18,7 @@ Hi! 👋 I’m a passionate **full stack developer** from the UK, currently comp
 <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 <img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+ </p>
 
 ## Let's talk!
 I'm currently looking for an **internship** in **software or web development** for Summer 2021 - if you're looking for such a candidate, I'd love to organize a virtual meeting.
