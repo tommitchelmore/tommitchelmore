@@ -30,6 +30,6 @@ I'm currently looking for an **internship** in **software or web development** f
 <br>
 
 <p float="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommitchelmore&layout=compact&theme=buefy" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommitchelmore&hide_border=true&layout=compact&theme=buefy" />
 <img src="https://github-readme-stats.vercel.app/api?username=tommitchelmore&hide_border=true&theme=buefy&line_height=20" />
 </p>
