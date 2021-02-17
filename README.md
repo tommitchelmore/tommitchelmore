@@ -1,5 +1,3 @@
-![](https://i.imgur.com/dpcLeZM.png)
-
 # Welcome
 Hi! 👋 I’m a passionate **full stack developer** from the UK, currently completing my Bachelors degree in **Computer Science** at the University of Southampton.
 
