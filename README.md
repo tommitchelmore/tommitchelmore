@@ -1,3 +1,4 @@
+
 # Welcome
 Hi! 👋 I’m a passionate **full stack developer** from the UK, currently completing my Bachelors degree in **Computer Science** at the University of Southampton.
 
@@ -33,3 +34,5 @@ I'm currently looking for an **internship** in **software or web development** f
 <img src="https://github-readme-stats.vercel.app/api?username=tommitchelmore&hide_border=true&theme=buefy&line_height=20" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommitchelmore&hide_border=true&layout=compact&theme=buefy" />
 </p>
+
+*Please note that, in line with <a href="https://www.southampton.ac.uk/quality/assessment/academic_integrity.page">Academic Integrity</a>, my university assignments & coursework must remain private and are not shown on any part of my public profile.*
