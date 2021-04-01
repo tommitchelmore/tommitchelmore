@@ -1,6 +1,6 @@
 
 # Welcome
-Hi! 👋 I’m a passionate **full stack developer** from the UK, currently completing my Bachelors degree in **Computer Science** at the University of Southampton.
+Hi! 👋 I’m a passionate **full stack developer** from just outside London in the UK, currently completing my Bachelors degree in **Computer Science** at the University of Southampton.
 
 # Languages & Frameworks I'm experienced in
 <p float="left">
@@ -22,7 +22,7 @@ Hi! 👋 I’m a passionate **full stack developer** from the UK, currently comp
  </p>
 
 # Let's talk!
-I'm currently looking for an **internship** in **software or web development** for Summer 2021 - if you're looking for such a candidate, I'd love to organize a virtual meeting.
+I'm currently looking for an **internship** in **software or web development** for the summers of 2021 & 2022 - if you're looking for such a candidate, I'd love to organize a virtual meeting.
  - Visit my website: <a href="https://tommitchelmore.com" target="_blank">tommitchelmore.com</a>
  - Drop me an email: <a href="mailto:tommitchelmore@outlook.com">tommitchelmore@outlook.com</a>
  - Connect with me on LinkedIn: <a href="https://linkedin.com/in/tommitchelmore" target="_blank">/in/tommitchelmore</a>
