@@ -1,7 +1,13 @@
 
+
 # Welcome
 Hi! 👋 I’m a passionate **full stack developer** from just outside London in the UK, currently completing my Bachelors degree in **Computer Science** at the University of Southampton.
 
+ 🎓 **Learning:** Vue, Vite & JavaFX
+ 💼 **Working on:** Java coursework project
+ 📝 **Editors of choice:** IntelliJ IDEA, VSCode, Vim
+ 🎉 **In my spare time:** Running and spending time with friends
+ 
 # Languages & Frameworks I'm experienced in
 <p float="left">
 <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
