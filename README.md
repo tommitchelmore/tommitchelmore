@@ -36,6 +36,8 @@ I'm currently looking for an **internship** in **software or web development** f
  - For academic enquiries: <a href="mailto:tm7g20@southampton.ac.uk">tm7g20@southampton.ac.uk</a
 
 *Please note that, in line with <a href="https://www.southampton.ac.uk/quality/assessment/academic_integrity.page">Academic Integrity</a>, my university assignments & coursework must remain private and are not shown on any part of my public profile.*
+
+<br>
 <a href="https://iceline-hosting.com">
 <img src="https://cdn.discordapp.com/attachments/715691697320886293/759923620511481906/728-raw.gif" width="100%"/>
 </a>
