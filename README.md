@@ -1,14 +1,12 @@
 
 
-# Welcome
+
+# Welcome!
 Hi! 👋 I’m a passionate **full stack developer** from just outside London in the UK, currently completing my Bachelors degree in **Computer Science** at the University of Southampton.
 
  🎓 **Learning:** Vue, Vite & JavaFX
- 
- 💼 **Working on:** Java coursework project
- 
+ 💼 **Working at:** <a href="https://iceline-hosting.com" target="_blank">Iceline Hosting</a>
  📝 **Editors of choice:** IntelliJ IDEA, VSCode, Vim
- 
  🎉 **In my spare time:** Running and spending time with friends
  
 # Languages & Frameworks I'm experienced in
@@ -35,13 +33,9 @@ I'm currently looking for an **internship** in **software or web development** f
  - Visit my website: <a href="https://tommitchelmore.com" target="_blank">tommitchelmore.com</a>
  - Drop me an email: <a href="mailto:tommitchelmore@outlook.com">tommitchelmore@outlook.com</a>
  - Connect with me on LinkedIn: <a href="https://linkedin.com/in/tommitchelmore" target="_blank">/in/tommitchelmore</a>
- - For academic enquiries: <a href="mailto:tm7g20@southampton.ac.uk">tm7g20@southampton.ac.uk</a>
-
-<br>
-
-<p float="left">
-<img src="https://github-readme-stats.vercel.app/api?username=tommitchelmore&hide_border=true&theme=buefy&line_height=20" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommitchelmore&hide_border=true&layout=compact&theme=buefy" />
-</p>
+ - For academic enquiries: <a href="mailto:tm7g20@southampton.ac.uk">tm7g20@southampton.ac.uk</a
 
 *Please note that, in line with <a href="https://www.southampton.ac.uk/quality/assessment/academic_integrity.page">Academic Integrity</a>, my university assignments & coursework must remain private and are not shown on any part of my public profile.*
+<a href="https://iceline-hosting.com">
+<img src="https://cdn.discordapp.com/attachments/715691697320886293/759923620511481906/728-raw.gif" width="100%"/>
+</a>
