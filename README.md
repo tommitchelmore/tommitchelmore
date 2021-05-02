@@ -37,7 +37,7 @@ I'm currently looking for an **internship** in **software or web development** f
  - Visit my website: <a href="https://tommitchelmore.com" target="_blank">tommitchelmore.com</a>
  - Drop me an email: <a href="mailto:tommitchelmore@outlook.com">tommitchelmore@outlook.com</a>
  - Connect with me on LinkedIn: <a href="https://linkedin.com/in/tommitchelmore" target="_blank">/in/tommitchelmore</a>
- - For academic enquiries: <a href="mailto:tm7g20@southampton.ac.uk">tm7g20@southampton.ac.uk</a
+ - For academic enquiries: <a href="mailto:tm7g20@southampton.ac.uk">tm7g20@southampton.ac.uk</a>
 
 *Please note that, in line with <a href="https://www.southampton.ac.uk/quality/assessment/academic_integrity.page">Academic Integrity</a>, my university assignments & coursework must remain private and are not shown on any part of my public profile.*
 
