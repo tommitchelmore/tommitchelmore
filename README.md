@@ -13,7 +13,7 @@ In my spare time you can find me out with my friends, running or even playing th
 
 ## Let's talk!
 I am currently open to taking on freelance web development projects alongside my job this summer - if you're seeking a developer for a static site, Wordpress theme or small web app I'd love to see how I can help!  I'd be more than happy for you to reach out with the social links above or via email: tommitchelmore@outlook.com (tm7g20@southampton.ac.uk for academic enquiries)
-
+<br>
 <a href="https://iceline-hosting.com">
 <img src="https://cdn.discordapp.com/attachments/715691697320886293/759923620511481906/728-raw.gif" width="100%"/>
 </a>
