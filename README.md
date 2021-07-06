@@ -1,5 +1,5 @@
 # Hi 👋, I'm Tom
-Welcome to my Github!  I'm currently in my 2nd year of an Integrated Masters Degree (MEng) in Computer Science from the <a href="https://southampton.ac.uk">University of Southampton</a> in the UK.  I'm also a Software Engineer at [Iceline Hosting](https://iceline-hosting.com), working on fast, user-oriented web applications and optimized internal business systems.
+Welcome to my Github!  I'm currently in my 2nd year of an Integrated Masters Degree (MEng) in Computer Science at the <a href="https://southampton.ac.uk">University of Southampton</a> in the UK.  I'm also a Software Engineer at [Iceline Hosting](https://iceline-hosting.com), working on fast, user-oriented web applications and optimized internal business systems.
 
 <p float="left">
 
