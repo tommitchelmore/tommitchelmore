@@ -1,47 +1,19 @@
+# Hi 👋, I'm Tom
+Welcome to my Github!  I'm currently in my 2nd year of an Integrated Masters Degree (MEng) in Computer Science from the <a href="https://southampton.ac.uk">University of Southampton</a> in the UK.  I'm also a Software Engineer at [Iceline Hosting](https://iceline-hosting.com), working on fast, user-oriented web applications and optimized internal business systems.
 
-
-
-# Welcome!
-Hi! 👋 I’m a passionate **full stack developer** from just outside London in the UK, currently completing my Bachelors degree in **Computer Science** at the University of Southampton.
-
- 🎓 **Learning:** Vue, Vite & JavaFX
- 
- 💼 **Working at:** <a href="https://iceline-hosting.com" target="_blank">Iceline Hosting</a>
- 
- 📝 **Editors of choice:** IntelliJ IDEA, VSCode, Vim
- 
- 🎉 **In my spare time:** Running and spending time with friends
- 
- 
-# Languages & Frameworks I'm experienced in
 <p float="left">
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
-<img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-<img alt="Express.js" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-<img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
-<img alt="Nginx" src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
-<img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
- </p>
 
-# Let's talk!
-I'm currently looking for an **internship** in **software or web development** for the summers of 2021 & 2022 - if you're looking for such a candidate, I'd love to organize a virtual meeting.
- - Visit my website: <a href="https://tommitchelmore.com" target="_blank">tommitchelmore.com</a>
- - Drop me an email: <a href="mailto:tommitchelmore@outlook.com">tommitchelmore@outlook.com</a>
- - Connect with me on LinkedIn: <a href="https://linkedin.com/in/tommitchelmore" target="_blank">/in/tommitchelmore</a>
- - For academic enquiries: <a href="mailto:tm7g20@southampton.ac.uk">tm7g20@southampton.ac.uk</a>
+<a href="https://github.com/tommitchelmore">![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white`)</a><a href="https://gitlab.com/tommitchelmore">![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)</a><a href="https://www.linkedin.com/in/tommitchelmore/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="https://twitter.com/tommitchelmore_">![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+</p>
 
-*Please note that, in line with <a href="https://www.southampton.ac.uk/quality/assessment/academic_integrity.page">Academic Integrity</a>, my university assignments & coursework must remain private and are not shown on any part of my public profile.*
+## A little about what I do
+With over three years of web development experience, I'm proficient with a number of technologies - these include: NodeJS, PHP, React, Vue, Docker and both SQL and NoSQL database types.  In addition to this, I have gained advanced knowledge of data structures, algorithms and computing theory as part of my degree - this has also involved Java, Python and Linux assignments.  Throughout my second year, I will be expected to learn Haskell to a high level with coursework such as writing my own interpreter for a custom programming language - I am also actively learning Golang for work.  My editors of choice are IntelliJ-based IDEs and Visual Studio Code for everything else!
 
-<br>
+In my spare time you can find me out with my friends, running or even playing the occasional game.  I love being outdoors and am happiest when being social - something University has been really good for!
+
+## Let's talk!
+I am currently open to taking on freelance web development projects alongside my job this summer - if you're seeking a developer for a static site, Wordpress theme or small web app I'd love to see how I can help!  I'd be more than happy for you to reach out with the social links above or via email: tommitchelmore@outlook.com (tm7g20@southampton.ac.uk for academic enquiries)
+
 <a href="https://iceline-hosting.com">
 <img src="https://cdn.discordapp.com/attachments/715691697320886293/759923620511481906/728-raw.gif" width="100%"/>
 </a>
