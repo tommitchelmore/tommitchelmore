@@ -7,7 +7,7 @@ Welcome to my Github!  I'm currently in my 2nd year of an Integrated Masters Deg
 </p>
 
 ## A little about what I do
-With over three years of web development experience, I'm proficient with a number of technologies - these include: NodeJS, PHP, React, Vue, Docker and both SQL and NoSQL database types.  In addition to this, I have gained advanced knowledge of data structures, algorithms and computing theory as part of my degree - this has also involved Java, Python and Linux assignments.  Throughout my second year, I will be expected to learn Haskell to a high level with coursework such as writing my own interpreter for a custom programming language - I am also actively learning Golang for work.  My editors of choice are IntelliJ-based IDEs and Visual Studio Code for everything else!
+With over four years of web development experience, I'm proficient with a number of technologies - these include: NodeJS, PHP, React, Vue, Docker and both SQL and NoSQL database types.  In addition to this, I have gained advanced knowledge of data structures, algorithms and computing theory as part of my degree - this has also involved Java, Python and Linux assignments.  Throughout my second year, I will be expected to learn Haskell to a high level with coursework such as writing my own interpreter for a custom programming language - I am also actively learning Golang for work.  My editors of choice are IntelliJ-based IDEs and Visual Studio Code for everything else!
 
 In my spare time you can find me out with my friends, running or even playing the occasional game.  I love being outdoors and am happiest when being social - something University has been really good for!
 
