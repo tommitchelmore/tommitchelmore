@@ -8,7 +8,7 @@ Welcome to my Github!  I'm currently in my 2nd year of an Integrated Masters Deg
 </p>
 
 ## Let's talk!
-I have proven, significant experience Frontend Web Development, Serverside Javascript, Java and Haskell. This also includes, but is not limited to, various Databases, Operating Systems and DevOps environments.
+I have proven, significant experience **Frontend Web Development**, **Serverside Javascript**, **Java** and **Haskell**. This also includes, but is not limited to, various **Databases**, **Operating Systems** and **DevOps environments**.
 I am also currently seeking internship opportunities for the summer of 2022 in any of the following fields: software/web/systems development, cyber security or systems engineering.  If you're looking for such a candidate, please reach out to me via any of the social links above or the following emails:
 - Personal: <a href="mailto:tommitchelmore@outlook.com">tommitchelmore@outlook.com</a>
  - University: <a href="mailto:tm7g20@southampton.ac.uk">tm7g20@southampton.ac.uk</a>
