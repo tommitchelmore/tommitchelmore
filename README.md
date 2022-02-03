@@ -10,8 +10,8 @@ I'm a student at the University of Southampton studying towards an Integrated Ma
 
 ## Contact me
 
-Website: <a href="https://mitchelmore.dev">mitchelmore.dev</a>
-Email: <a href="mailto:hello@mitchelmore.dev">hello@mitchelmore.dev</a>
+ - Website: <a href="https://mitchelmore.dev">mitchelmore.dev</a>
+ - Email: <a href="mailto:hello@mitchelmore.dev">hello@mitchelmore.dev</a>
 
 <br>
 
