@@ -1,18 +1,17 @@
+# Thomas Mitchelmore
+<p float="left" align="center">
 
-# Hi 👋, I'm Tom
-Welcome to my Github!  I'm currently in my 2nd year of an Integrated Masters Degree (MEng) in Computer Science at the <a href="https://southampton.ac.uk">University of Southampton</a> in the UK.  I'm also a Software Engineer at [Iceline Hosting](https://iceline-hosting.com), working on fast, user-oriented web applications and optimized internal business systems. In my spare time, I'm a National-Competing Trampoline Gymnast and a member of several societies at University.
-
-<p float="left">
-
-<a href="https://github.com/tommitchelmore">![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white`)</a><a href="https://gitlab.com/tommitchelmore">![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)</a><a href="https://www.linkedin.com/in/tommitchelmore/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="https://twitter.com/tommitchelmore_">![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="https://github.com/tommitchelmore">![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white`)</a><a href="https://gitlab.com/tommitchelmore">![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)</a><a href="https://www.linkedin.com/in/tommitchelmore/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 </p>
 
-## Let's talk!
-I have proven, significant experience in **Frontend Web Development**, **Serverside Javascript**, **Java** and **Haskell**. This also includes, but is not limited to, various **Databases**, **Operating Systems** and **DevOps environments**.
-I am also currently seeking internship opportunities for the summer of 2022 in any of the following fields: software/web/systems development, cyber security or systems engineering.  If you're looking for such a candidate, please reach out to me via any of the social links above or the following emails:
-- Personal: <a href="mailto:tommitchelmore@outlook.com">tommitchelmore@outlook.com</a>
- - University: <a href="mailto:tm7g20@southampton.ac.uk">tm7g20@southampton.ac.uk</a>
- - Work: <a href="mailto:tom@iceline-hosting.com">tom@iceline-hosting.com</a>
+## About
+
+I'm a student at the University of Southampton studying towards an Integrated Masters Degree (MEng) in Computer Science. I have keen and proven experience within the web development industry with expertise in React, Vue and various backend technologies. I'm also a Software Engineer at <a href="">Iceline Hosting</a>, working on fast, user-oriented web applications and optimized internal business systems. In my spare time, I'm a Trampoline Gymnast and compete at University, Regional and National competitions.
+
+## Contact me
+
+Website: <a href="https://mitchelmore.dev">mitchelmore.dev</a>
+Email: <a href="mailto:hello@mitchelmore.dev">hello@mitchelmore.dev</a>
 
 <br>
 
