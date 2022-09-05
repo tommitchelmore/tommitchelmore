@@ -1,27 +1,32 @@
 
-# Thomas Mitchelmore
+<div float="left">
+  <h1>Thomas Mitchelmore</h1>
+  <p>Project Manager at <a href="https://iceline-hosting.com" target="_blank">Iceline Hosting</a></p>
+</div>
 
-Hey there! I'm a second year student at the <a href="https://www.southampton.ac.uk/" target="_blank">University of Southampton</a> studying towards an **Integrated Masters Degree (MEng)** in **Computer Science**. I have proven experience within the web development industry and have expertise in Frontend Development (React), Backend Development and Database Design. I'm currently a **Software Engineer** at <a href="https://iceline-hosting.com" target="_blank">Iceline Hosting</a> and a **Research Associate** within the <a href="https://www.wais.ecs.soton.ac.uk/" target="_blank">Web and Internet Science Research Group</a> at the <a href="https://www.southampton.ac.uk/" target="_blank">University of Southampton</a>.  Previously, I've also been a Systems Administrator, Customer Support Operator and have taken on several freelance opportunities over the years.
-
-<p float="left" align="center">
-
-<a href="https://github.com/tommitchelmore">![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white`)</a><a href="https://gitlab.com/tommitchelmore">![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)</a><a href="https://www.linkedin.com/in/tommitchelmore/">![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-</p>
+I'm a third year student at the University of Southampton studying towards an Integrated Masters Degree (MEng) in Computer Science. I have proven experience within the web development industry and have expertise in Fullstack Development, Product Design and DevOps. I have worked as a Software Engineer, Systems Administrator, Research Associate and Customer Support Agent in previous roles.
 
 ## Work Experience
 
-**University of Southampton** `Jun 2022 - Present`
+**Iceline Hosting** `Sep 2022 - Present`
 
-*Research Associate (Web and Internet Science Research Group)* - *Full Time Internship*
- - Investigating how commuter journey analysis can provide insights into infrastructure within a city
- - Production of mobile & web applications involving novel interactions with geospatial data
+*Project Manager* - *Part Time*
+ - Lead role in overseeing development of new products and services
+ - Development of strategy, product specifications and design guidelines
+ - Use of experience to make key archiectural and operational decisions
 
-**Iceline Hosting** `Apr 2021 - Present`
+**Iceline Hosting** `Apr 2021 - Sep 2022`
 
 *Software Engineer* - *Part Time*
  - Production of performant internal & customer facing web applications
  - Production of new, dynamic company website
  - Produced a comprehensive infrastructure management tool for use with a major industry partner's API
+
+**University of Southampton** `Jun 2022 - Sep 2022`
+
+*Research Associate (Web and Internet Science Research Group)* - *Full Time Internship*
+ - Investigating how commuter journey analysis can provide insights into infrastructure within a city
+ - Production of mobile & web applications involving novel interactions with geospatial data
 
 **Classify** `Jul 2021 - Sep 2021`
 
@@ -59,6 +64,8 @@ Hey there! I'm a second year student at the <a href="https://www.southampton.ac.
 Website: <a href="https://mitchelmore.dev">mitchelmore.dev</a>
 
 Email: <a href="mailto:hello@mitchelmore.dev">hello@mitchelmore.dev</a>
+
+Email (Work): <a href="mailto:tom@iceline-hosting.com">tom@iceline-hosting.com</a>
 
 LinkedIn: <a href="https://www.linkedin.com/in/tommitchelmore/">/in/tommitchelmore</a>
 
