@@ -4,7 +4,11 @@
   <p>Project Manager at <a href="https://iceline-hosting.com" target="_blank">Iceline Hosting</a></p>
 </div>
 
-I'm a third year student at the University of Southampton studying towards an Integrated Masters Degree (MEng) in Computer Science. I have proven experience within the web development industry and have expertise in Fullstack Development, Product Design and DevOps. I have worked as a Software Engineer, Systems Administrator, Research Associate and Customer Support Operator in previous roles.
+I'm a third year student at the **University of Southampton** studying towards a **Computer Science degree (MEng)**. I have proven experience within the web development industry and have expertise in *Frontend Development (ReactJS)* and *Web/Product Design*. I have worked as a Software Engineer, Systems Administrator, Research Associate and Customer Support Operator in previous roles.
+
+In my current role, **I lead a team of developers** building web pages and SaaS products with technologies such as ReactJS, Go and more. As a firm believer in building one another up, I often write code with, teach and help my colleagues - leveraging multiple years of fullstack development experience.
+
+At University, as part of my dissertation, I'm researching, designing and implementing an online learning environment to assist in the teaching of various MongoDB concepts.
 
 ## Work Experience
 
