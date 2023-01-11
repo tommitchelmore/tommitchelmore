@@ -4,17 +4,18 @@
   <p>Project Manager at <a href="https://iceline-hosting.com" target="_blank">Iceline Hosting</a></p>
 </div>
 
-I'm a third year student at the University of Southampton studying towards an Integrated Masters Degree (MEng) in Computer Science. I have proven experience within the web development industry and have expertise in Fullstack Development, Product Design and DevOps. I have worked as a Software Engineer, Systems Administrator, Research Associate and Customer Support Agent in previous roles.
+I'm a third year student at the University of Southampton studying towards an Integrated Masters Degree (MEng) in Computer Science. I have proven experience within the web development industry and have expertise in Fullstack Development, Product Design and DevOps. I have worked as a Software Engineer, Systems Administrator, Research Associate and Customer Support Operator in previous roles.
 
 ## Work Experience
 
 **Iceline Hosting** `Sep 2022 - Present`
 
 *Project Manager* - *Part Time*
- - Lead role in overseeing development of new products and services
+ - Lead role in development of new products, services and web pages.
  - Development of strategy, product specifications and design guidelines
  - Use of experience to make key archiectural and operational decisions
- - Training team members on React, NextJS and other related concepts
+ - Assisting team members in developing skills in ReactJS, Design, SEO and more
+ - Key milestones include the delivery of our <a href="https://iceline-hosting.com/">new website</a> in 01/23
 
 **Iceline Hosting** `Apr 2021 - Sep 2022`
 
@@ -69,6 +70,8 @@ Email: <a href="mailto:hello@mitchelmore.dev">hello@mitchelmore.dev</a>
 Email (Work): <a href="mailto:tom@iceline-hosting.com">tom@iceline-hosting.com</a>
 
 LinkedIn: <a href="https://www.linkedin.com/in/tommitchelmore/">/in/tommitchelmore</a>
+
+Twitter: <a href="https://www.twitter.com/tommitchelmore_/">@tommitchelmore_</a>
 
 <br>
 
