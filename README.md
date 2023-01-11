@@ -14,6 +14,7 @@ I'm a third year student at the University of Southampton studying towards an In
  - Lead role in overseeing development of new products and services
  - Development of strategy, product specifications and design guidelines
  - Use of experience to make key archiectural and operational decisions
+ - Training team members on React, NextJS and other related concepts
 
 **Iceline Hosting** `Apr 2021 - Sep 2022`
 
